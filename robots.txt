@@ -1,1 +1,1 @@
-Sitemap: https://nickmccarty.github.io/fastpages_test/sitemap.xml
+Sitemap: https://nickmccarty.github.io/fastpages_test/fastpages_test/sitemap.xml
