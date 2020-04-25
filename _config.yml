@@ -39,8 +39,8 @@ baseurl: "/fastpages_test" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    medium: nickmccarty0
-    github: nickmccarty
+    medium: https://medium.com/@nickmccarty0
+    github: https://github.com/nickmccarty
 
 # Set this to true to get LaTeX math equation support
 use_math: 
